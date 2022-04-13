@@ -5,6 +5,14 @@ public class Item {
 		
 	// aqui podem ser declarados outros atributos conforme sua necessidade.
 	//Construtor de objetos da classe Item
+	
+	// aqui podem ser declarados outros atributos conforme sua necessidade.
+	//Construtor de objetos da classe Item
+	// aqui podem ser declarados outros atributos conforme sua necessidade.
+	//Construtor de objetos da classe Item
+	// aqui podem ser declarados outros atributos conforme sua necessidade.
+	//Construtor de objetos da classe Item
+	
 	public Item(int ch) {
 		this.chave = ch;
 	}

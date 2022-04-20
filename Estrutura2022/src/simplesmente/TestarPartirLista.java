@@ -25,7 +25,7 @@ public class TestarPartirLista {
 		System.out.println("Lista2:\n "+lista2.toString());
 		
 		
-
+//Franz
 	}
 
 }

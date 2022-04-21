@@ -25,6 +25,6 @@ public class InvertePalavra {
 		}
 		
 		System.out.println("Palava invertida:\n"+ palavra);
+		teclado.close();
 	}
-
 }
